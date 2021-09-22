@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    按下按鍵之後觸發改變顏色-->
+<!--    layout button 底下增加 android:background="@drawable/button_selector"-->
+
+<!--    values string 底下新增-->
+<!--    <drawable name="clr_normal">#ff6501</drawable>-->
+<!--    <drawable name="clr_pressed">#a44100</drawable>-->
+    <item android:drawable="@drawable/clr_normal" android:state_pressed="false"/>
+    <item android:drawable="@drawable/clr_pressed" android:state_pressed="true"/>
+</selector>

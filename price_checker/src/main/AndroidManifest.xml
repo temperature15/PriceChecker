@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jerry.tcnrcloud110a">
+
+    <!--    加入網路許可權限-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_01"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_01_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Q0410"
+            android:exported="true"
+            android:screenOrientation="portrait"> <!--螢幕鎖定縱向顯示-->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Q0411"
+            android:screenOrientation="portrait"> <!--螢幕鎖定縱向顯示-->
+        </activity>
+        <activity android:name=".Q0412"
+            android:screenOrientation="portrait"> <!--螢幕鎖定縱向顯示-->
+        </activity>
+        <activity android:name=".Q0413"
+            android:screenOrientation="portrait"> <!--螢幕鎖定縱向顯示-->
+        </activity>
+    </application>
+
+</manifest>

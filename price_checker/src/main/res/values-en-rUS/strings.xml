@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taiwan Fruit and Vegetable Price Inquiry</string>
+    <string name="q0411_b001">基隆</string>
+    <string name="q0411_b002">台北</string>
+    <string name="q0411_b003">新北</string>
+    <string name="q0411_b004">桃園</string>
+    <string name="q0411_b005">新竹</string>
+    <string name="q0411_b006">苗栗</string>
+    <string name="q0411_b007">台中</string>
+    <string name="q0411_b008">彰化</string>
+    <string name="q0411_b009">南投</string>
+    <string name="q0411_b010">雲林</string>
+    <string name="q0411_b011">嘉義</string>
+    <string name="q0411_b012">台南</string>
+    <string name="q0411_b013">高雄</string>
+    <string name="q0411_b014">屏東</string>
+    <string name="q0411_b015">宜蘭</string>
+    <string name="q0411_b016">花蓮</string>
+    <string name="q0411_b017">台東</string>
+
+    <string name="q0411_b018"> Search all markets</string>
+    <string name="q0411_b019"> search </string>
+    <string name="q0411_b020"> market </string>
+    <string name="q0411_b021">全部市場</string>
+
+    <string name="q0411_a001">請輸入蔬菜水果名稱</string>
+
+    <string name="q0411_t004">台北</string>
+    <string name="q0411_t005">板橋</string>
+    <string name="q0411_t006">三重</string>
+    <string name="q0411_t007">宜蘭</string>
+    <string name="q0411_t008">桃農</string>
+    <string name="q0411_t009">台中</string>
+    <string name="q0411_t010">豐原</string>
+    <string name="q0411_t011">東勢</string>
+    <string name="q0411_t012">南投</string>
+    <string name="q0411_t013">嘉義</string>
+    <string name="q0411_t014">高雄</string>
+    <string name="q0411_t015">鳳山</string>
+    <string name="q0411_t016">台東</string>
+
+    <string name="q0411_t021">溪湖</string>
+    <string name="q0411_t022">永靖</string>
+    <string name="q0411_t023">"西螺 "</string>
+    <string name="q0411_t024">"屏東 "</string>
+    <string name="q0411_t025">"花蓮 "</string>
+    <string name="q0411_t026">"彰化 "</string>
+    <string name="q0411_t027">"台南 "</string>
+
+    <string name="q0411_t017"> the Republic of China</string>
+    <string name="q0411_t018"> year</string>
+    <string name="q0411_t019"> Please select a date:</string>
+    <string name="q0411_t020"> Please select a date</string>
+
+    <drawable name="clr_normal">#00000000</drawable>
+    <drawable name="clr_pressed">#7FD6CB</drawable>
+
+    <string name="q0412_t101"> Spring:</string>
+    <string name="q0412_t102"> Summer:</string>
+    <string name="q0412_t103"> Autumn:</string>
+    <string name="q0412_t104"> Winter:</string>
+    <string name="q0412_b001"> return to the map</string>
+
+    <string name="q0412_b002"> watermelon</string>
+    <string name="q0412_b003"> Mango</string>
+    <string name="q0412_b004"> pineapple</string>
+    <string name="q0412_b005"> Pitaya </string>
+
+    <string name="q0413_b001"> return to the map</string>
+    <string name="q0413_t001"> Transaction Quotes</string>
+    <string name="q0413_t002"> loading is complete</string>
+    <string name="q0413_t003">Total:</string>
+    <string name="q0413_t004"> add a note:</string>
+    <string name="q0413_t005"> Record the price and whatever you want:</string>
+    <string name="q0413_t006"> Under construction:</string>
+    <string name="q0413_t007">Cancel:</string>
+
+    <!-- <string name="q0413_t002"> Taipei's first fruit and vegetable market </string>-->
+    <!-- <string name="q0413_t003"> Taichung Fruit and Vegetable Market</string>-->
+    <!-- <string name="q0413_t004"> Kaohsiung Fruit and Vegetable Wholesale Market</string>-->
+    <!-- <string name="q0413_t005"> products</string>-->
+    <!-- <string name="q0413_t006"> average price (yuan/kg)</string>-->
+    <!-- <string name="q0413_t007"> Transaction volume (kg)</string>-->
+
+    <string name="q0411_t001">Produce</string>
+    <string name="q0411_t002">Search</string>
+    <string name="q0411_t003">Trade</string>
+
+    <string name="q0414_t001"> transaction date:\t</string>
+    <string name="q0414_t002"> Agricultural product name:\t</string>
+    <string name="q0414_t003"> market name:\t</string>
+    <string name="q0414_t004"> on the price (yuan/kg):\t</string>
+    <string name="q0414_t005">Medium price (yuan/kg):\t</string>
+    <string name="q0414_t006"> the next price (yuan/kg):\t</string>
+    <string name="q0414_t007"> average price (yuan/kg):\t</string>
+    <string name="q0414_t008"> Transaction volume (kg):\t</string>
+
+    <string name="q0411_m_ans"> information</string>
+    <string name="q0411_m_batch"> new batches </string>
+    <string name="q0411_m_clear"> Clear data </string>
+    <string name="q0411_m_altitle"> Clear all data</string>
+    <string name="q0411_m_list"> list list</string>
+    <string name="q0411_m_editall"> data maintenance </string>
+
+    <string name="q0411_menu_top"> jump to the first stroke </string>
+    <string name="q0411_menu_end"> jump to the end of the pen</string>
+    <string name="q0411_menu_next">+100</string>
+    <string name="q0411_menu_back">-100</string>
+    <string name="q0410_t001">Click anywhere to continue...</string>
+</resources>
